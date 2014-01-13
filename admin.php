@@ -385,7 +385,7 @@ return array (
 'User View Log'=>'User-View-Log',
 'Record ID'=>'Record ID',
 'Clear View History'=>'View-History leeren',
-'This form will allow you to create a custom module with similar functionality to the other existing modules. '=>'Erstellen Sie ein benutzerdefiniertes Modul mit ähnlicher Funktionalität, wie die anderen vorhandenen Module.',
+'This form will allow you to create a custom module with similar functionality to the other existing modules. '=>'Erstellen Sie ein benutzerdefiniertes Modul mit ähnlicher Funktionalität, wie die anderen vorhandenen Module. ',
 'Please fill out the fields below to create a new module. After fields are created, you will need to enter the Form Editor to create a form layout'=>'Bitte füllen Sie die Felder aus, um ein neues Modul zu erstellen. Sobald Sie die zugehörigen Felder (Feld-Editor) erstellt haben, sollten Sie den Formular-Editor nutzen, um ein Layout für Ihr Modul zu erstellen',
 'Extra fields should be added from the "Manage Fields" page.'=>'Zusätzliche Felder sollten aus der &quot;Felder verwalten&quot;-Seite hinzugefügt werden.',
 'Is this module searchable?'=>'Ist das Modul durchsuchbar?',
